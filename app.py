@@ -6,3 +6,7 @@ st.header("En este espacio cominezo a desarrollar mis aplicaciones para interfac
 st.write("Facilmente puedo realizar backend y frontend")
 image = Image.open('image.jpeg')
 st.image(image, caption='Interfaces Multimodales')
+
+
+texto = st.text_input('Buenas')
+st.write('El texto escrito es', Hola Mundo)
