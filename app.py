@@ -8,5 +8,5 @@ image = Image.open('image.jpeg')
 st.image(image, caption='Interfaces Multimodales')
 
 
-texto = st.text_input('Buenas')
-st.write('El texto escrito es',Hola Mundo)
+texto = st.text_input('Buenas tardes', 'Buenas noches')
+st.write('El texto escrito es', Hola Mundo)
