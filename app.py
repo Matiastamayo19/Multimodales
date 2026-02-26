@@ -9,4 +9,4 @@ st.image(image, caption='Interfaces Multimodales')
 
 
 texto = st.text_input('Buenas')
-st.write('El texto escrito es', Hola Mundo)
+st.write('El texto escrito es',Hola Mundo)
